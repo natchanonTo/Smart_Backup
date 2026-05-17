@@ -1,0 +1,5 @@
+source_dir=./source
+backup_dir=./backups
+auto_cleanup=1
+keep_days=30
+schedule_hours=24
